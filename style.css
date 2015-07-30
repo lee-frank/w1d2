@@ -16,3 +16,19 @@ aside section h4 {
 header h1 {
 	font-size:35px;
 }
+
+body {
+	background-color:SlateGray;
+}
+
+header, aside, article {
+	background-color:White;
+}
+
+aside section {
+	background-color:LightBlue;
+}
+
+section header article {
+	background-color:LightBlue;
+}
